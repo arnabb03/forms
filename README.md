@@ -1,0 +1,1 @@
+This is a simple survey form project built using HTML and CSS. It provides a user-friendly interface for collecting information from users through a form. The form includes fields for gathering the user's name, address, contact details, personal details, and their rating of a service.
